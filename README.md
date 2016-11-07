@@ -7,11 +7,13 @@ Body
 <dd>is a <b>hoax</b> in contemporary Australian folklore featuring a predatory, carnivorous version of the koala (Phascolarctos cinereus).</dd>
 
 <main>
+<section id="the animals diet">
 <details>
 <summary>Diet</summary>
 <p>The drop bear mainly eats gum leavs</p>
 <p>They have been known to eat humans as well</p>
 </details>
+</section>
 
 <blockquote>
 <p>A <i>drop bear</i> (sometimes dropbear) is a <b>hoax</b> in contemporary Australian folklore featuring a predatory, carnivorous version of the koala (Phascolarctos cinereus). This imaginary animal is commonly spoken about in tall tales designed to scare tourists. While koalas are typically docile herbivores (and notably, not bears), drop bears are described as <strong>unusually large and vicious marsupials</strong> that inhabit treetops and attack unsuspecting people (or other prey) that walk beneath them by dropping onto their heads from above.</p>
