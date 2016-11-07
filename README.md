@@ -2,6 +2,14 @@ Headline
 Title
 Body
 
+<nav>
+<h1> What to know about the deadly drop bear?</h1>
+<ul>
+  <li><a href="index.html">an introduction to drop bears</a></li>
+  <li><a href="physiology.html">an introduction to drop bears</a></li>
+  </ul>
+
+
 <dl>
 <dt><h1>Drop bear</h1></dt>
 <dd>is a <b>hoax</b> in contemporary Australian folklore featuring a predatory, carnivorous version of the koala (Phascolarctos cinereus).</dd>
@@ -39,8 +47,8 @@ Body
 <td>Jewie</td>
 </tr>
 </tbody>
-<table>
-<figurecaption> <p> The vote results </p>
+</table>
+<figurecaption> <p>The vote results</p>
 </figure>
 
 <ol>
