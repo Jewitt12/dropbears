@@ -31,6 +31,7 @@ Body
 </tr>
 </tbody>
 <table>
+<figurecaption> <p> The vote results </p>
 </figure>
 
 <ol>
